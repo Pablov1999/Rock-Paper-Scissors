@@ -1,0 +1,58 @@
+h2{
+    font-size: inherit;
+    font-weight: 400;
+    text-align: center;
+    font-family: "Merriweather", Times, san-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 50px;
+    color: #fff;
+    padding-top: 35px;
+    padding-bottom: 20px;
+  
+  }
+
+
+  
+  button {
+    width: 120px;
+    height: 55px;
+    background: #0fc78a;
+    -webkit-transition: 0.8s;
+    transition: 0.8s;
+    font-family: "Inter", Times, san-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    color: rgb(100, 15, 47);
+    cursor: pointer;
+  }
+
+  button:hover {
+    color: #fff;
+  }
+
+  .buttons{
+    max-width: 500px;
+    height: 330px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 400px;
+  }
+
+  body {
+    font-family: "Inter", Times, san-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 50px;
+    color: rgb(10, 8, 4);
+    background: rgb(32, 161, 184);
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px 0 20px;
+  }
